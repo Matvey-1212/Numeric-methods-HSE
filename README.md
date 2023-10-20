@@ -4,8 +4,8 @@ This repository contains the homework assignments for the Numerical Methods cour
 - Numerical errors
 - Finding the root of the equation
 - Solving systems of linear equations
-and so on
+- Interpolation and approximation
+- Solving ordinary differential equations
 
-(later will be added: Interpolation and approximation, Numerical integration and differentiation, Ordinary differential equations, Partial differential, equations, Optimization)
 
 The course is designed to provide students with a thorough understanding of numerical methods and their applications in various fields of study. The focus is on developing skills in programming and numerical analysis, and the course provides practical training in implementing numerical methods to solve problems.
