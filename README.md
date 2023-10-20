@@ -1,4 +1,4 @@
-## Numerical Methods HSE (Jan.2023 - Present)
+## Numerical Methods HSE (Jan.2023 - Oct.2023)
 This repository contains the homework assignments for the Numerical Methods course in the Applied Mathematics program at MIEM, HSE. The course covers a range of topics related to numerical methods, including:
 
 - Numerical errors
